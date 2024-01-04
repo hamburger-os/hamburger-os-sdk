@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://gitee.com/myshow2258/hamburger-os-app.git
+[submodule "bsp"]
+	path = bsp
+	url = https://gitee.com/myshow2258/hamburger-os-bsp.git
+[submodule "lib"]
+	path = lib
+	url = https://gitee.com/myshow2258/hamburger-os-lib.git
