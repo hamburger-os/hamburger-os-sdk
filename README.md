@@ -1,11 +1,11 @@
-# The Applications of SWOS2 #
+# The Applications of HamburgerOS #
 
 ## 初始化仓库 ##
 
 第一次克隆本仓库需要执行初始化操作，本仓库源代码使用git submodule分别管理，克隆本仓库需使用如下命令：
 
 ```
-git clone --recursive http://192.168.101.251:8088/research-institute/swos2-sdk.git
+git clone --recursive https://gitee.com/myshow2258/hamburger-os.git
 ```
 
 ## 创建应用 ##

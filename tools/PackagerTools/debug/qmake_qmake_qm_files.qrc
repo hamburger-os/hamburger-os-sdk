@@ -1,5 +1,5 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="i18n">
-<file alias="PackagerTools_zh_CN.qm">D:/workspace/rt-thread-studio/swos2-sdk/tools/PackagerTools/debug/PackagerTools_zh_CN.qm</file>
+<file alias="PackagerTools_zh_CN.qm">D:/workspace/rt-thread-studio/HamburgerOS-sdk/tools/PackagerTools/debug/PackagerTools_zh_CN.qm</file>
 </qresource>
 </RCC>
