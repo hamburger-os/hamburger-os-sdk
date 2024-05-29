@@ -5,7 +5,7 @@
 第一次克隆本仓库需要执行初始化操作，本仓库源代码使用git submodule分别管理，克隆本仓库需使用如下命令：
 
 ```
-git clone --recursive https://gitee.com/myshow2258/hamburger-os.git
+git clone --recursive https://github.com/hamburger-os/hamburger-os-sdk.git
 ```
 
 ## 创建应用 ##
